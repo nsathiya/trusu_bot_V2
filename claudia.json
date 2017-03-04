@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "trusu_bot_v2-executor",
+    "name": "trusu_bot_v2",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "t7xtgagzsk",
+    "module": "main"
+  }
+}
